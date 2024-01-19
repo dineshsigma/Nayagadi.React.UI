@@ -1,0 +1,12 @@
+.carousel{
+    height: 285px;
+}
+
+.indicators{
+    transform: rotate(-90deg) !important;
+    top:50% !important;
+    margin: 0 !important;
+    left: 0 !important;
+    bottom: 50% !important;
+    right:95% !important;
+}
